@@ -6,6 +6,7 @@ As society becomes more technology focused, it is important to make sure users a
 
 # Jakob Nielsen's 10 Usability Heuristics for User Interface Design
 #### 1- Visibility of System Status
+hiefhew;orifhw
 2- Match Between System and the Real World
 3- User Control and Freedom
 4- Consistency and Standards
