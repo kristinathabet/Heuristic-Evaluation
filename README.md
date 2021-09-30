@@ -53,10 +53,13 @@ When something is searched for in the seach bar, the query is not saved, making 
 #### 2- Match Between System and the Real World
 Although this is a small issue, the search bar has "Search DMV" written in it to tell users what the bar is for. My recommendation would be to write something more friendly such as "Find What You Need Here," to make users feel like the website is working with them and not against them. The paperwork and regestration done through the DMV is generally annoying and frusturating to drivers. Making this experience more helpful and personal would improve this heuristic. (Severity:1)
 #### 3- User Control and Freedom
-
+When users search in the search bar, their previous searches are erased. If the users search did not generate the anwser they needed, they need to retype their search with its new modifications. I recommend that all recent searchs remain in the drop down tab so it is easy for users to quicky search variations of the same phrase in order to anwser their question. There is also no 'Go back' button present on the website. If a user wants to go back to the previous interface, they either need to hit the back button on the Google/Safari application or scroll all the wat down to the bottom of the page to view all menu options again. A 'Go Back' button that remains at the top of the website page would be very useful. (Severity:1)
 #### 4- Consistency and Standards
+This website stays consistent with the words and phrasing it uses. All links and external pages are navigated the same way. The top of the page has five of the main DMV options on it, as well as drop down menus for each of these options. These tabs never move and can guide users to revisit any part of the website they were on before. This website succeeds in this area. (No Severity0
 #### 5- Error Prevention
+This website does a good job at preventing errors because it does not let you submit any information that does not match with the websites records. When users attempt to log into the DMV website with an inncorrect login, the sign in doesnt go through and a message ios presented in red ink. "You have entered an invalid Username or Password. If you have forgotten your password, please use this NY.gov ID Forgot Password Self Service link. The Password field is case sensitive and must match your last known password." The website efficiently tells users what is wrong and gives multiple ways they can attempt to make changes to their previous submission. Users can click on all tabs on the website without getting an error message, unless thier personal information was imputted wrong. (No Severity) 
 #### 6- Recognition Rather Than Recall
+If you click on a tab that gives users instructions on how to do something (for example: get a license), 
 #### 7- Flexibility and Efficiency of Use	
 #### 8- Aesthetic and Minimalist Design
 #### 9- Help Users Recognize, Diagnose, and Recover From Errors
