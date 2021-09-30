@@ -38,8 +38,12 @@ Minor usablilty issues. There are important but not crucial.
 Major usablilty issues. These issues should be first priority. 
 
 
-# Website 1: [New York State Drivers License Website](https://dmv.ny.gov/driver-licenses)
+# Website 1: [New York State Driver License Website](https://dmv.ny.gov/driver-licenses)
 ## About 
+The New York DMV Website is where users can renew, replace, make changes to, and get a license. This website also handles all registration for vehicles as well as permits, ID's, and more. On the website, you can also find all information and contacts pertaining to the Department of Motor Vehicles. This website serves the public by licensing drivers, securing identities, and regualting the vehicle industry. My goal is to improve user's experience of navigating this important website by providing a heuristic evaluation.
+
+## Intitial Overall Heuristic Evaluation
+Before digging deeply, the New York State Driver License website came off boring, bare, and spread out. There are no photos on the website and the only colors used are blue, white, and black. When users move the cursor over a tab, the tab does not react at all, potentially making users feel like the website is unresponsive to the cursor. On a positive note, all large driver license related needs are layed out and easy to read on the opening page of the website. There is an easily accessible search tab as well as an "Ask a Question" feature on the bottom. See below for a deeper heuristic evaluation.
 ![Website of New York Drivers License](nystatedriver.png)
 #### 1- Visibility of System Status
 #### 2- Match Between System and the Real World
