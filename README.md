@@ -40,7 +40,21 @@ Major usablilty issues. These issues should be first priority.
 
 # Website 1: [New York State Drivers License Website](https://dmv.ny.gov/driver-licenses)
 ## About 
+![Website of New York Drivers License](nystatedriver.png)
+#### 1- Visibility of System Status
+#### 2- Match Between System and the Real World
+#### 3- User Control and Freedom
+#### 4- Consistency and Standards
+#### 5- Error Prevention
+#### 6- Recognition Rather Than Recall
+#### 7- Flexibility and Efficiency of Use	
+#### 8- Aesthetic and Minimalist Design
+#### 9- Help Users Recognize, Diagnose, and Recover From Errors
+#### 10- Help and Documentation 
 
+# Website 2: [New York State Housing Services Website](https://www.ny.gov/services/housing)
+## About 
+![Website of New York Drivers License](NewYorkhousingservices.png)
 #### 1- Visibility of System Status
 #### 2- Match Between System and the Real World
 #### 3- User Control and Freedom
