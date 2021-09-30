@@ -42,12 +42,18 @@ Major usablilty issues. These issues should be first priority.
 ## About 
 The New York DMV Website is where users can renew, replace, make changes to, and get a license. This website also handles all registration for vehicles as well as permits, ID's, and more. On the website, you can also find all information and contacts pertaining to the Department of Motor Vehicles. This website serves the public by licensing drivers, securing identities, and regualting the vehicle industry. My goal is to improve user's experience of navigating this important website by providing a heuristic evaluation.
 
+![Website of New York Drivers License](nystatedriver.png)
 ## Intitial Overall Heuristic Evaluation
 Before digging deeply, the New York State Driver License website came off boring, bare, and spread out. There are no photos on the website and the only colors used are blue, white, and black. When users move the cursor over a tab, the tab does not react at all, potentially making users feel like the website is unresponsive to the cursor. On a positive note, all large driver license related needs are layed out and easy to read on the opening page of the website. There is an easily accessible search tab as well as an "Ask a Question" feature on the bottom. See below for a deeper heuristic evaluation.
-![Website of New York Drivers License](nystatedriver.png)
+
+# Heuristic Evalation
 #### 1- Visibility of System Status
+When something is searched for in the seach bar, the query is not saved, making it difficut for the user to revisit past subtabs on the website. As you type on the search bar, commonly searched options do not pop up, making users question whether or not the website is resonive to their actions. When users move the cursor over different links and tabs, nothing changes at all, also raising questions about the websites responsiveness. I would recommend making tabs and links change colors when the cursor is placed on them, alerting the users that there is more information to be found in that location. I would also add a component on the page that has a moving image or icon. This would confirm the website is on and running to users. (Severity:2)
+
 #### 2- Match Between System and the Real World
+Although this is a small issue, the search bar has "Search DMV" written in it to tell users what the bar is for. My recommendation would be to write something more friendly such as "Find What You Need Here," to make users feel like the website is working with them and not against them. The paperwork and regestration done through the DMV is generally annoying and frusturating to drivers. Making this experience more helpful and personal would improve this heuristic. (Severity:1)
 #### 3- User Control and Freedom
+
 #### 4- Consistency and Standards
 #### 5- Error Prevention
 #### 6- Recognition Rather Than Recall
