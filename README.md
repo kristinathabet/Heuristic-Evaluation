@@ -71,8 +71,10 @@ Generally when users are on a help tab, they are looking for personalized help t
 
 # Website 2: [New York State Housing Services Website](https://www.ny.gov/services/housing)
 ## About 
-![Website of New York Drivers License](NewYorkhousingservices.png)
+The New York Housing Services website is where New York residences can find government assistance for housing. These services range from emergency rental assistance, heating and cooling assistance, disaster recover and aid for both renters and owners. Many residents of New York rely on government aided housing services to live safely and stay afloat. My goal is to suggest improvements of the New York 
+![Website of New York Housing Services](NewYorkhousingservices.png)
 #### 1- Visibility of System Status
+
 #### 2- Match Between System and the Real World
 #### 3- User Control and Freedom
 #### 4- Consistency and Standards
